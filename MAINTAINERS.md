@@ -10,5 +10,10 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | Ashwin Pc     | [ashwin-pc](https://github.com/ashwin-pc)           | Amazon         |
 | Kris Freedain | [krisfreedain](https://github.com/krisfreedain)     | Amazon         |
 | Nate B.       | [nateynateynate](https://github.com/nateynateynate) | Amazon         |
-| Carlos Canas  | [canascar](https://github.com/canascar)             | Amazon         |
 | Bill Becker   | [wbeckler](https://github.com/wbeckler)             | Amazon         |
+
+## Emeritus
+
+| Maintainer | GitHub ID |
+|---|---|
+| Carlos Canas | [canascar](https://github.com/canascar) |
