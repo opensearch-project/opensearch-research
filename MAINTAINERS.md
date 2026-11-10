@@ -7,7 +7,6 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 | Maintainer    | GitHub ID                                           | Affiliation    |
 | ------------- | --------------------------------------------------- | -------------- |
 | Aparna Sundar | [apasun](https://github.com/apasun)                 | Amazon         |
-| Ashwin Pc     | [ashwin-pc](https://github.com/ashwin-pc)           | Amazon         |
 | Kris Freedain | [krisfreedain](https://github.com/krisfreedain)     | Amazon         |
 | Nate B.       | [nateynateynate](https://github.com/nateynateynate) | Amazon         |
 
@@ -17,3 +16,4 @@ This document contains a list of maintainers in this repo. See [opensearch-proje
 |---|---|
 | Carlos Canas | [canascar](https://github.com/canascar) |
 | Bill Becker   | [wbeckler](https://github.com/wbeckler) |
+| Ashwin Pc    | [ashwin-pc](https://github.com/ashwin-pc) |
